@@ -29,5 +29,5 @@
   <a href="https://velog.io/@yu_jep" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
   
   ![great psycho GitHub stats](https://github-readme-stats.vercel.app/api?username=great-psycho&count_private=true&show_icons=true&theme=gruvbox_light)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=great-psycho&layout=compact&theme=calm)
 </div>
