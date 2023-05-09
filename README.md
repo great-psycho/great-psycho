@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   
-  ### 　　　　⭐️ Blog　　　　　🛠️ Ongoing Project
-  　　<a href="https://yujep.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
+  ### 　　　　⭐️ Blog　　　　　🛠️ In Progress Project
+  <a href="https://yujep.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
   <a href="https://velog.io/@yu_jep" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=black"/></a>　　　　　　　　　
   <a href="https://github.com/dal-cho" target="_blank"><img src="https://img.shields.io/badge/ADME-B2EBF4?style=flat&logo=github&logoColor=black"/></a>
 
