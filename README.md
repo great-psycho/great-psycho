@@ -22,11 +22,14 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
+  
+  ### 🛠️ Ongoing Project
+  <a href="https://github.com/dal-cho" target="_blank"><img src="https://img.shields.io/badge/ADME-B2EBF4?style=flat&logo=github&logoColor=black"/></a>
+  
   ### ⭐️ Blog 
-
   <a href="https://yujep.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
   <a href="https://velog.io/@yu_jep" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
+  
   
   ![great psycho GitHub stats](https://github-readme-stats.vercel.app/api?username=great-psycho&count_private=true&show_icons=true&theme=gruvbox_light)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=great-psycho&layout=compact&theme=calm)
