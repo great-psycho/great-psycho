@@ -10,10 +10,8 @@
   
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
-
-  <img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,6 +20,16 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  
+  ### 🖱️ Used Stack
+  
+  <img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
   
   ### 　　　　⭐️ Blog　　　　　🛠️ In Progress Project
   <a href="https://yujep.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
